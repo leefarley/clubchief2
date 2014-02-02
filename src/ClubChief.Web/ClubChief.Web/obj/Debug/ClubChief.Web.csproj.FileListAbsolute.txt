@@ -1,0 +1,13 @@
+C:\Projects\clubchief\src\ClubChief.Web\ClubChief.Web\bin\ClubChief.Web.dll
+C:\Projects\clubchief\src\ClubChief.Web\ClubChief.Web\bin\ClubChief.Web.pdb
+C:\Projects\clubchief\src\ClubChief.Web\ClubChief.Web\bin\Newtonsoft.Json.dll
+C:\Projects\clubchief\src\ClubChief.Web\ClubChief.Web\bin\System.Net.Http.Formatting.dll
+C:\Projects\clubchief\src\ClubChief.Web\ClubChief.Web\bin\System.Web.Http.dll
+C:\Projects\clubchief\src\ClubChief.Web\ClubChief.Web\bin\System.Web.Http.WebHost.dll
+C:\Projects\clubchief\src\ClubChief.Web\ClubChief.Web\bin\Newtonsoft.Json.xml
+C:\Projects\clubchief\src\ClubChief.Web\ClubChief.Web\bin\System.Net.Http.Formatting.xml
+C:\Projects\clubchief\src\ClubChief.Web\ClubChief.Web\bin\System.Web.Http.xml
+C:\Projects\clubchief\src\ClubChief.Web\ClubChief.Web\bin\System.Web.Http.WebHost.xml
+C:\Projects\clubchief\src\ClubChief.Web\ClubChief.Web\obj\Debug\ClubChief.Web.csprojResolveAssemblyReference.cache
+C:\Projects\clubchief\src\ClubChief.Web\ClubChief.Web\obj\Debug\ClubChief.Web.dll
+C:\Projects\clubchief\src\ClubChief.Web\ClubChief.Web\obj\Debug\ClubChief.Web.pdb

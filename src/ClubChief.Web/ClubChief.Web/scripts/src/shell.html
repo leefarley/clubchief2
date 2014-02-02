@@ -1,0 +1,23 @@
+﻿<div>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="#">ClubChief</a>
+            </div>
+            <ul class="nav navbar-nav" data-bind="foreach: router.navigationModel">
+                <li data-bind="css: { active: isActive }">
+                    <a class="btn" data-bind="attr: { href: hash }, html: title"></a>
+                </li>
+            </ul>
+            <div class="navbar-form pull-right">
+                <a class="btn btn-primary" data-bind="click: logout" >Logout</a>
+                <div class="loader" data-bind="css: { active: router.isNavigating }">
+                    <i class="icon-spinner icon-2x icon-spin"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container page-host" style="margin-top: 52px;">
+        <!--ko router: { transition:'entrance', cacheViews:true }--><!--/ko-->
+    </div>
+</div>
